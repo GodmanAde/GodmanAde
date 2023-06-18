@@ -2,7 +2,7 @@
 - 👀 I’m interested in technology
 - 🌱 I’m currently learning the basics
 - 💞️ I’m looking to collaborate by learning from others
-- 📫 How to reach me at deolux2@hotmail.co.uk
+- 📫 How to reach me at 19adeolu07@gmail.com
 
 <!---
 GodmanAde/GodmanAde is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
